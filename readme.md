@@ -13,13 +13,13 @@ BOOROM的启动地址可查看手册：AN2606，该手册包含了STM32所有系
 
 通过cubeprogrammer完成USB/USART的下载（覆盖引导程序扇区）因此该引导程序只能生效一次
 
-![image-20231210173030162](https://newbie-typora.oss-cn-shenzhen.aliyuncs.com/TyporaJPG/image-20231210173030162.png)于该flash只有一个
+![image-20231210173030162](https://newbie-typora.oss-cn-shenzhen.aliyuncs.com/TyporaJPG/image-20231210173030162.png)
 
 
 
 
 
-AN2606如下：
+AN2606手册如下：
 
 - 需要注意起始地址以及适配的下载引脚
 
